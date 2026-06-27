@@ -24,4 +24,4 @@ string json = JsonConvert.SerializeObject(persona, Formatting.Indented);
 Console.WriteLine();
 Console.WriteLine(json);
 
-string stripe_api_key = "doeoddoemddd_doemd";
+string stripe_api_key = "mddm_mdoem_eoemd55";
